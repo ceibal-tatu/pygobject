@@ -6,7 +6,7 @@
 Source: pygobject
 Section: python
 Priority: optional
-Maintainer: Josselin Mouette <joss@debian.org>
+Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
 Uploaders: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
 Build-Depends: debhelper (>= 7),
                gnome-pkg-tools (>= 0.10),
