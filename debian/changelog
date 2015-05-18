@@ -1,3 +1,9 @@
+pygobject (3.2.2-1~precise+tatu1) tatu; urgency=medium
+
+  * Repack for tatu.
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 18 May 2015 09:47:07 -0300
+
 pygobject (3.2.2-1~precise) precise-proposed; urgency=low
 
   * SRU 3.2.2 bug fix release to precise. (LP: #999711)
