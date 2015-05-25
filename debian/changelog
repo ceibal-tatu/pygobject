@@ -1,8 +1,8 @@
-pygobject (3.2.2-1ubuntu1-tatu2) UNRELEASED; urgency=medium
+pygobject (3.2.2-1ubuntu1-tatu2) tatu; urgency=medium
 
   * Fixed dependencies. 
 
- -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 25 May 2015 11:26:26 -0300
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 25 May 2015 11:26:58 -0300
 
 pygobject (3.2.2-1~precise+tatu1) tatu; urgency=medium
 
